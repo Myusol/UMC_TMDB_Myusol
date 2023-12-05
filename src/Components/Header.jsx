@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { GlobalStyle, FixedHeader, Logo, HomeNav, LinkA  } from './Header.style'
-import LoginControl from "./LoginControl";
 import Login from "./Login";
 
 
